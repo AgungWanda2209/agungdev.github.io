@@ -14,7 +14,7 @@ function getdata(){
 
     var posts_div=document.getElementById('New');
 
-      posts.innerHTML="";
+      New.innerHTML="";
 
  
 
@@ -44,7 +44,7 @@ function getdata(){
 
     var posts_div=document.getElementById('v2021');
 
-      posts.innerHTML="";
+      v2021.innerHTML="";
 
  
 
@@ -76,7 +76,7 @@ function getdata(){
 
     var posts_div=document.getElementById('v2022');
 
-      posts.innerHTML="";
+      v2022.innerHTML="";
 
  
 
@@ -106,7 +106,7 @@ function getdata(){
 
     var posts_div=document.getElementById('v2023');
 
-      posts.innerHTML="";
+      v2023.innerHTML="";
 
  
 
